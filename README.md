@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GTrush's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegatao)](https://github.com/guangyuzhang/github-readme-stats)
 <!--
 **omegatao/omegatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
