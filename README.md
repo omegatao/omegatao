@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a preofessional mechanical enginner and also an amateur software developer. I am glad to have this chance to contribute to the opensouce community.
+I am a professional mechanical engineer and also an amateur software developer. I am glad to have this chance to contribute to the opensource community.
 
 [![GTrush's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegatao)](https://github.com/guangyuzhang/github-readme-stats)
 <!--
